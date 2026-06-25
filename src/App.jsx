@@ -1,5 +1,7 @@
 import { useState } from 'react'
+import { reptiles } from './data/reptiles'
 import Navbar from "./components/Navbar";
+import SpeciesCard from "./components/SpeciesCard";
 import './App.css'
 
 function App() {
@@ -8,8 +10,16 @@ function App() {
   return (
     <>
       <Navbar />
+      <main>
+        {reptiles.map((reptil) => (
+          <SpeciesCard
+            key={reptil.id}
+            reptil={reptil}
+          />
+        ))}
+      </main>
     </>
   )
 }
 
-export default App
+export default App;
