@@ -1,1 +1,101 @@
+/* Navbar */
 
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(#eef8ec, #dcefd6);
+}
+
+nav {
+  margin: 0 auto;
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  background-color: #1b5e20;
+  color: white;
+  padding: 0.8rem 1rem;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Cards */
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.card {
+  gap: 1 rem;
+  background-color: white;
+  border-radius: 8px;
+  margin: 1rem 0;
+  padding: 1rem;
+  width: 300px;
+  transition: .25s;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, .15);
+}
+
+.card img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.card-info {
+  display: flex;
+  flex-direction: column;
+  gap: .3rem;
+}
+
+.scientific-name {
+  font-style: italic;
+  font-size: .9rem;
+}
+
+.subtype {
+  font-size: .8rem;
+  color: #555;
+}
+
+/* Conservation status */
+
+.status {
+  display: inline-block;
+  padding: .3rem .7rem;
+  border-radius: 999px;
+  font-size: .75rem;
+  font-weight: 600;
+  align-self: center;
+}
+
+.preocupacion-menor {
+  background-color: #1b5e20;
+  color: white;
+}
+
+.casi-amenazado {
+  background-color: #f9a825;
+  color: white;
+}
+
+.vulnerable {
+  background-color: #ef6c00;
+  color: white;
+}
+
+.en-peligro {
+  background-color: #c62828;
+  color: white;
+}

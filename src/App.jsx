@@ -11,12 +11,14 @@ function App() {
     <>
       <Navbar />
       <main>
+        <div className="cards-container">
         {reptiles.map((reptil) => (
           <SpeciesCard
             key={reptil.id}
             reptil={reptil}
           />
         ))}
+        </div>
       </main>
     </>
   )
