@@ -42,3 +42,51 @@ Las fotografías utilizadas en este proyecto pertenecen a sus respectivos autore
 - Licencia: CC BY-SA 3.0
 - URL: https://commons.wikimedia.org/w/index.php?curid=32503753
 
+## Lagarto tizón
+
+- Autor: Diego Delso
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 3.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=23568687
+
+## Lagarto de la Gomera
+
+- Autor: Christoph Moning
+- Fuente: Wikimedia Commons
+- Licencia: CC BY 4.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=129001085
+
+## Víbora hocicuda
+
+- Autor: Luis Daniel Carbia Cabeza
+- Fuente: Wikimedia Commons
+- Licencia: CC BY 2.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=91243131
+
+## Víbora aspid
+
+- Autor: Felix Reimann
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 3.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=15603285
+
+## Víbora cantábrica
+
+- Autor: Keta
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 2.5
+- URL: https://commons.wikimedia.org/w/index.php?curid=2383332
+
+## Culebra de escalera
+
+- Autor: FOTO-ARDEIDAS
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 3.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=25948742
+
+## Culebra bastarda
+
+- Autor: Diego Delso
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 4.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=63025809
