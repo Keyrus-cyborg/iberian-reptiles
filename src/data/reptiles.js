@@ -68,7 +68,7 @@ export const reptiles = [
         distribucion: "Pirineos y cordillera Cantábrica",
         descripcion: "Uno de los reptiles más pequeños de Europa. Se caracteriza por su cuerpo robusto, su cabeza corta y un claro dimorfismo sexual. A pesar de su nombre, son animales diurnos y relativamente lentos que dependen del camuflaje y el sol para regular su temperatura.",
         imagen: "/images/lagarto-agil.jpg",
-        estadoConservacion: "Preocupación menor",
+        estadoConservacion: "Casi amenazado",
         endemico: false
     },
     {
@@ -82,7 +82,7 @@ export const reptiles = [
         distribucion: "Isla de El Hierro",
         descripcion: "Especie endémica de El Hierro. Estuvo al borde de la extinción y ha sido objeto de diversos programas de conservación.",
         imagen: "/images/lagarto-gigante-hierro.jpg",
-        estadoConservacion: "En peligro",
+        estadoConservacion: "En peligro crítico",
         endemico: true,
         endemismo: "Canarias"
     },
@@ -268,7 +268,7 @@ export const reptiles = [
         distribucion: "Mitad sur peninsular",
         descripcion: "Pequeña y excavadora. Posee colmillos traseros y un veneno muy débil.",
         imagen: "/images/culebra-cogulla.jpg",
-        estadoConservacion: "Preocupación menor",
+        estadoConservacion: "Casi amenazado",
         endemico: true,
         endemismo: "Península Ibérica"
     },
@@ -311,7 +311,7 @@ export const reptiles = [
         distribucion: "Sureste peninsular y norte de África",
         descripcion: "Especie terrestre de tamaño mediano. Su característica principal es un caparazón abombado de tonos amarillentos a verde oliva, con manchas negras en cada placa.",
         imagen: "/images/tortuga-mora.jpg",
-        estadoConservacion: "Vulnerable",
+        estadoConservacion: "En peligro",
         endemico: false
     },
     {
@@ -353,7 +353,7 @@ export const reptiles = [
         distribucion: "Gran parte de Europa y zonas de Asia occidental y norte de África",
         descripcion: "Tortuga semiacuática de agua dulce autóctona de Europa. Su rasgo más distintivo es su caparazón ovalado y oscuro salpicado de líneas y puntos amarillos, combinado con una piel oscura.",
         imagen: "/images/galapago-europeo.jpg",
-        estadoConservacion: "Casi amenazado",
+        estadoConservacion: "Vulnerable",
         endemico: false
     },
     {
@@ -367,8 +367,7 @@ export const reptiles = [
         distribucion: "Introducido en gran parte de la Península Ibérica",
         descripcion: "Especie invasora introducida por el mascotismo, que hoy compite y desplaza a las especies autóctonas en numerosos ecosistemas acuáticos ibéricos.",
         imagen: "/images/galapago-florida.jpg",
-        estadoConservacion: "Preocupación menor",
-        invasora: true,
+        estadoConservacion: "Especie invasora",
         endemico: false
     },
     {
@@ -396,7 +395,7 @@ export const reptiles = [
         distribucion: "Océanos tropicales y templados de todo el mundo",
         descripcion: "La tortuga marina más grande del mundo. Se distingue por su caparazón flexible cubierto de cuero oscuro y por su dieta especializada basada principalmente en medusas.",
         imagen: "/images/tortuga-laud.jpg",
-        estadoConservacion: "Vulnerable",
+        estadoConservacion: "En peligro crítico",
         endemico: false
     },
     {
@@ -410,7 +409,7 @@ export const reptiles = [
         distribucion: "Océanos tropicales y subtropicales de todo el mundo",
         descripcion: "Tortuga marina de gran tamaño, famosa por ser la única especie de tortuga marina cuya dieta adulta es principalmente herbívora.",
         imagen: "/images/tortuga-verde.jpg",
-        estadoConservacion: "Preocupación menor",
+        estadoConservacion: "En peligro",
         endemico: false
     },
     {

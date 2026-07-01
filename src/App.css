@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
-  background: linear-gradient(#eef8ec, #dcefd6);
+  background: linear-gradient(#d6ead2, #b8d9b1);
 }
 
 nav {
@@ -32,6 +32,8 @@ nav a {
 }
 
 .card {
+  border: 1px solid rgba(0,0,0,.05);
+    box-shadow: 0 3px 12px rgba(0,0,0,.06);
   gap: 1 rem;
   background-color: white;
   border-radius: 8px;
@@ -61,12 +63,13 @@ nav a {
 
 .scientific-name {
   font-style: italic;
-  font-size: .9rem;
+  font-size: .95rem;
+  color: #555;
 }
 
 .subtype {
   font-size: .8rem;
-  color: #555;
+  color: #777;
 }
 
 /* Conservation status */
@@ -98,4 +101,14 @@ nav a {
 .en-peligro {
   background-color: #c62828;
   color: white;
+}
+
+.en-peligro-critico {
+  background-color: #9c0f0f;
+  color: white;
+}
+
+.especie-invasora{
+    background-color: #464347;
+    color: white;
 }

@@ -37,10 +37,10 @@ Las fotografías utilizadas en este proyecto pertenecen a sus respectivos autore
 
 ## Lagarto gigante de El Hierro
 
-- Autor: Carlos Teixidor Cadenas
-- Fuente: Wikimedia Commons
-- Licencia: CC BY-SA 3.0
-- URL: https://commons.wikimedia.org/w/index.php?curid=32503753
+- Autor: Siegfried Troidl
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/348827770
 
 ## Lagarto tizón
 
@@ -90,3 +90,136 @@ Las fotografías utilizadas en este proyecto pertenecen a sus respectivos autore
 - Fuente: Wikimedia Commons
 - Licencia: CC BY-SA 4.0
 - URL: https://commons.wikimedia.org/w/index.php?curid=63025809
+
+## Culebra de collar mediterránea
+
+- Autor: CREAC Calafell
+- Fuente: Wikimedia Commons
+- Licencia: CC BY 4.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=141872389
+
+## Culebra viperina
+
+- Autor: David Perez
+- Fuente: Wikimedia Commons
+- Licencia: CC BY 3.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=7338201
+
+## Culebra herradura
+
+- Autor: CREAC Calafel
+- Fuente: Wikimedia Commons
+- Licencia: CC BY 4.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=141872022
+
+## Culebra lisa europea
+
+- Autor: Christian Fischer
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 3.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=4668787
+
+## Culebra lisa meridional
+
+- Autor: Benny Trapp
+- Fuente: Wikimedia Commons
+- Licencia: CC BY 3.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=12637524
+
+## Culebra de cogulla
+
+- Autor: Axel Gosseries
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/taxa/73858-Macroprotodon-brevis/browse_photos
+
+## Culebra de esculapio
+
+- Autor: Paul Cools
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/es/taxa/74009-Zamenis-longissimus
+
+## Culebra verdiamarilla
+
+- Autor: FelixReimann
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 3.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=10537177
+
+## Tortuga mora
+
+- Autor: Paul Cools
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/taxa/40023-Testudo-graeca
+
+## Tortuga mediterranea
+
+- Autor: josefwirth
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/es/taxa/71212-Testudo-hermanni
+
+## Galápago leproso
+
+- Autor: josefwirth
+- Fuente: Wikimedia Commons
+- Licencia: CC BY 2.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=63757228
+
+## Galápago europeo
+
+- Autor: Christian Ursilva
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 4.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=180120406
+
+## Galápago de Florida
+
+- Autor: Glenn Berry
+- Fuente: iNaturalist.org
+- Licencia: CC0
+- URL: https://www.inaturalist.org/taxa/39782-Trachemys-scripta
+
+## Tortuga boba
+
+- Autor: Roberto Pillon
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/176772831
+
+## Tortuga laúd
+
+- Autor: azure27014
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/es/taxa/39676-Dermochelys
+
+## Tortuga verde
+
+- Autor: Paul Asman and Jill Lenoble
+- Fuente: iNaturalist.org
+- Licencia: CC BY
+- URL: https://www.inaturalist.org/taxa/39659-Chelonia-mydas
+
+## Salamanquesa común
+
+- Autor: Paul Asman and Jill Lenoble
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 2.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=61576947
+
+## Salamanquesa rosada
+
+- Autor: Ty Smith
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/es/taxa/39676-Dermochelys
+
+## Camaleón común
+
+- Autor: TLuis nunes alberto
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 3.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=7672106
