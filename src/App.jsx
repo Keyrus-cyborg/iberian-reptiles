@@ -22,13 +22,13 @@ function App() {
   return (
     <>
       <Navbar />
-       <div className="search-container">
+      <main>
+        <div className="search-container">
         <SearchBar
         search={search}
         setSearch={setSearch}
       />
        </div>
-      <main>
         <div className="cards-container">
         {reptilesFiltrados.map((reptil) => (
           <SpeciesCard

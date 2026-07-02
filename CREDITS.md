@@ -223,3 +223,11 @@ Las fotografías utilizadas en este proyecto pertenecen a sus respectivos autore
 - Fuente: Wikimedia Commons
 - Licencia: CC BY-SA 3.0
 - URL: https://commons.wikimedia.org/w/index.php?curid=7672106
+
+## Logo
+
+Icono de lagartija
+
+- Autor: Hati royani
+- Fuente: Vecteezy
+- https://es.vecteezy.com/vectores-gratis/lagarto

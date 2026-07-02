@@ -1,35 +1,66 @@
-/* Navbar */
-
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
   background: linear-gradient(#d6ead2, #b8d9b1);
 }
 
-nav {
-  margin: 0 auto;
+main {
+  margin-top: 80px;
+}
+
+/* Navbar */
+
+.nav-container {
+  max-width: 1500px;
+  width: 100%;
+  margin: auto;
+
   display: flex;
-  gap: 1rem;
   justify-content: space-between;
-  background-color: #1b5e20;
-  color: white;
-  padding: 0.8rem 1rem;
+  align-items: center;
+  padding: 0 clamp(1rem, 3vw, 2rem);
+  box-sizing: border-box;
+}
+
+nav{
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    background:#1b5e20;
+    box-shadow:0 2px 10px rgba(0,0,0,.12);
+    z-index:1000;
+    padding:.8rem 0;
 }
 
 nav a {
   color: white;
   text-decoration: none;
+  transition: .2s;
+}
+
+nav a:hover {
+  color: #b8d9b1;
+}
+
+.logo-nav {
+  width: 200px;
+}
+
+.menu{
+    display:flex;
+    gap:clamp(.8rem,2vw,2rem);
 }
 
 /* Buscador */
 
-.search-container{
+.search-container {
   display: flex;
   justify-content: center;
   margin: 2rem 0;
 }
 
-.search-input{
+.search-input {
   width: min(700px, 90%);
   padding: .7rem .8rem;
   border: 1px solid #b7d7b1;
@@ -38,7 +69,7 @@ nav a {
   transition: .2s;
 }
 
-.search-input:focus{
+.search-input:focus {
   border-color: #1b5e20;
 }
 
@@ -53,8 +84,8 @@ nav a {
 }
 
 .card {
-  border: 1px solid rgba(0,0,0,.05);
-    box-shadow: 0 3px 12px rgba(0,0,0,.06);
+  border: 1px solid rgba(0, 0, 0, .05);
+  box-shadow: 0 3px 12px rgba(0, 0, 0, .06);
   gap: 1 rem;
   background-color: white;
   border-radius: 8px;
@@ -129,7 +160,7 @@ nav a {
   color: white;
 }
 
-.especie-invasora{
-    background-color: #464347;
-    color: white;
+.especie-invasora {
+  background-color: #464347;
+  color: white;
 }
