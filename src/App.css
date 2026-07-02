@@ -21,6 +21,27 @@ nav a {
   text-decoration: none;
 }
 
+/* Buscador */
+
+.search-container{
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.search-input{
+  width: min(700px, 90%);
+  padding: .7rem .8rem;
+  border: 1px solid #b7d7b1;
+  font-size: .8rem;
+  outline: none;
+  transition: .2s;
+}
+
+.search-input:focus{
+  border-color: #1b5e20;
+}
+
 /* Cards */
 
 .cards-container {
