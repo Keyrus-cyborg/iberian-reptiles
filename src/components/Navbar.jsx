@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Navbar() {
     return (
         <nav>
@@ -6,11 +8,11 @@ function Navbar() {
                     <img src="/logos/logo-reptiles.png" className="logo-nav" alt="Logo Reptiles"></img>
                 </div>
                 <div className="menu">
-                    <a href='#'>Inicio</a>
-                    <a href='#'>Lagartos</a>
-                    <a href='#'>Serpientes</a>
-                    <a href='#'>Quelonios</a>
-                    <a href='#'>Geckos y camaleones</a>
+                    <Link to="/">Inicio</Link>
+                    <Link to="/lagartos">Lagartos</Link>
+                    <Link to="/serpientes">Serpientes</Link>
+                    <Link to="/quelonios">Quelonios</Link>
+                    <Link to="/geckos-camaleones">Geckos y camaleones</Link>
                 </div>
             </div>
         </nav>
