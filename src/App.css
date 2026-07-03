@@ -52,6 +52,20 @@ nav a:hover {
     gap:clamp(.8rem,2vw,2rem);
 }
 
+/* HeroBanner */
+
+.hero-banner-container{
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.hero-banner img{
+  width: 20%;
+  height: 180px;
+  object-fit: cover;
+}
+
 /* Buscador */
 
 .search-container {

@@ -224,6 +224,97 @@ Las fotografías utilizadas en este proyecto pertenecen a sus respectivos autore
 - Licencia: CC BY-SA 3.0
 - URL: https://commons.wikimedia.org/w/index.php?curid=7672106
 
+## Lagarto ocelado (banner)
+
+- Autor: Pirataber
+- Fuente: iNaturalist.org
+- Licencia: CC BY
+- URL: https://www.inaturalist.org/photos/191276377
+
+## Lagarto verdinegro (banner)
+
+- Autor: jimileca
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/102486484
+
+## Lagarto tizón (banner)
+
+- Autor: Siegfried Troidl 
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/25348288
+
+## Lagarto ágil (banner)
+
+- Autor: klausalix
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/343743366
+
+## Lagarto gigante de El Hierro (banner)
+
+- Autor: Siegfried Troidl
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/26112624
+
+## Víbora hocicuda (banner)
+
+- Autor: Thomas Bader
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/351634725
+
+## Culebra de escalera (banner)
+
+- Autor: Philippe Geniez
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/258204721
+
+## Culebra bastarda (banner)
+
+- Autor: lisonchalier
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/260400948
+
+## Culebra de cogulla (banner)
+
+- Autor: Axel Gosseries
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/459713715
+
+## Culebra verdiamarilla (banner)
+
+- Autor: Jean Nicolas
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/466593941
+
+## Tortuga mora (banner)
+
+- Autor: gentoo
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/28200293
+
+## Salamanquesa común (banner)
+
+- Autor: Javisa Hun
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/279478450
+
+## Camaleón común (banner)
+
+- Autor: nielsbuuspedersen
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/40110891
+
 ## Logo
 
 Icono de lagartija

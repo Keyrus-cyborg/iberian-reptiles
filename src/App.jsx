@@ -3,6 +3,7 @@ import { reptiles } from './data/reptiles'
 import Navbar from "./components/Navbar";
 import SearchBar from "./components/SearchBar";
 import SpeciesCard from "./components/SpeciesCard";
+import HeroBanner from "./components/HeroBanner";
 import './App.css'
 
 function App() {
@@ -23,11 +24,14 @@ function App() {
     <>
       <Navbar />
       <main>
+        <div className="hero-banner-container">
+        <HeroBanner />
+       </div>
         <div className="search-container">
         <SearchBar
         search={search}
         setSearch={setSearch}
-      />
+      />       
        </div>
         <div className="cards-container">
         {reptilesFiltrados.map((reptil) => (
