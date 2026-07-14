@@ -301,6 +301,34 @@ Las fotografías utilizadas en este proyecto pertenecen a sus respectivos autore
 - Licencia: CC BY-NC
 - URL: https://www.inaturalist.org/photos/28200293
 
+## Galápago leproso (banner)
+
+- Autor: David Pereira
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/59113592
+
+## Galápago europeo (banner)
+
+- Autor: Vojtěch Víta
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/251917231
+
+## Tortuga boba (banner)
+
+- Autor: Roberto Pillon
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/176773891
+
+## Tortuga laúd (banner)
+
+- Autor: azure27014
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/247303195
+
 ## Salamanquesa común (banner)
 
 - Autor: Javisa Hun
@@ -308,12 +336,34 @@ Las fotografías utilizadas en este proyecto pertenecen a sus respectivos autore
 - Licencia: CC BY-NC
 - URL: https://www.inaturalist.org/photos/279478450
 
+## Salamanquesa común 2 (banner)
+
+- Autor: Martin Galli
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/171983411
+
+## Salamanquesa rosada (banner)
+
+- Autor: Manuel Raab
+- Fuente: iNaturalist.org
+- Licencia: CC BY-NC
+- URL: https://www.inaturalist.org/photos/567018846
+
+
 ## Camaleón común (banner)
 
 - Autor: nielsbuuspedersen
 - Fuente: iNaturalist.org
 - Licencia: CC BY-NC
 - URL: https://www.inaturalist.org/photos/40110891
+
+## Camaleón común 2 (banner)
+
+- Autor: Charles J. Sharp
+- Fuente: Wikimedia Commons
+- Licencia: CC BY-SA 4.0
+- URL: https://commons.wikimedia.org/w/index.php?curid=69211492
 
 ## Logo
 
