@@ -147,13 +147,18 @@ nav a:hover {
 
 /* Details */
 
-.detail {
+.detail-page{
   max-width: 1200px;
   margin: 2rem auto;
+  padding: 0 2rem;
+}
+
+.detail {
+  max-width: 1200px;
   padding: 2rem;
 
   display: flex;
-  gap: 2rem;
+  gap: 3rem;
   align-items: flex-start;
 }
 
@@ -165,6 +170,7 @@ nav a:hover {
 .detail-content h1 {
   margin-top: 0;
   margin-bottom: 1.8rem;
+  color:#144d18;
 }
 
 .detail-info p {
@@ -175,7 +181,7 @@ nav a:hover {
 }
 
 .detail-content strong{
-    min-width: 150px;
+    min-width: 180px;
     color:#324b32
 }
 
@@ -185,6 +191,11 @@ nav a:hover {
     flex-direction: column;
     align-items: flex-start;
     gap: .4rem;
+}
+
+.scientific-name-detail{
+    font-style: italic;
+    color: #555;
 }
 
 .detail-image {
@@ -213,6 +224,26 @@ nav a:hover {
 .detail-description p{
     margin:0;
     line-height:1.7;
+}
+
+/* Back button */
+
+.back-button{
+    background: none;
+    border: none;
+
+    padding: 0;
+    margin-bottom: .6rem;
+
+    color: #1b5e20;
+    font-size: 1rem;
+    font-weight: 600;
+
+    cursor: pointer;
+}
+
+.back-button:hover{
+    text-decoration: underline;
 }
 
 /* Conservation status */
