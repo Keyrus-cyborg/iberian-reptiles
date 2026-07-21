@@ -52,6 +52,12 @@ nav a:hover {
   gap: clamp(.8rem, 2vw, 2rem);
 }
 
+.menu a.active{
+    color:#d8f3d1;
+    border-bottom: 2px solid #d8f3d1;
+    padding-bottom: .25rem;
+}
+
 /* HeroBanner */
 
 .hero-banner-container {
