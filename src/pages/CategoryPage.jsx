@@ -25,7 +25,7 @@ function CategoryPage({ categoria }) {
     return (
         <>
             <div className="hero-banner-container">
-                <HeroBanner />
+                <HeroBanner categoria={categoria} />
             </div>
             <div className="search-container">
                 <SearchBar

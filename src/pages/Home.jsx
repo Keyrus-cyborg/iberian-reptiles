@@ -21,7 +21,7 @@ function Home() {
     return (
         <>
             <div className="hero-banner-container">
-                <HeroBanner />
+                <HeroBanner categoria="inicio" />
             </div>
             <div className="search-container">
                 <SearchBar

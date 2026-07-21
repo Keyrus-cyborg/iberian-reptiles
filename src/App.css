@@ -22,15 +22,15 @@ main {
   box-sizing: border-box;
 }
 
-nav{
-    position: fixed;
-    top:0;
-    left:0;
-    width:100%;
-    background:#1b5e20;
-    box-shadow:0 2px 10px rgba(0,0,0,.12);
-    z-index:1000;
-    padding:.8rem 0;
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: #1b5e20;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, .12);
+  z-index: 1000;
+  padding: .8rem 0;
 }
 
 nav a {
@@ -47,20 +47,20 @@ nav a:hover {
   width: 200px;
 }
 
-.menu{
-    display:flex;
-    gap:clamp(.8rem,2vw,2rem);
+.menu {
+  display: flex;
+  gap: clamp(.8rem, 2vw, 2rem);
 }
 
 /* HeroBanner */
 
-.hero-banner-container{
+.hero-banner-container {
   display: flex;
   justify-content: center;
   overflow: hidden;
 }
 
-.hero-banner img{
+.hero-banner img {
   width: 20%;
   height: 180px;
   object-fit: cover;
@@ -123,6 +123,11 @@ nav a:hover {
   border-radius: 8px;
 }
 
+.card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 .card-info {
   display: flex;
   flex-direction: column;
@@ -140,6 +145,76 @@ nav a:hover {
   color: #777;
 }
 
+/* Details */
+
+.detail {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 2rem;
+
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.detail-content {
+  flex: 1;
+  max-width: 560px;
+}
+
+.detail-content h1 {
+  margin-top: 0;
+  margin-bottom: 1.8rem;
+}
+
+.detail-info p {
+  margin: .8rem 0;
+  line-height: 1.5;
+  display: flex;
+  gap: 1rem;
+}
+
+.detail-content strong{
+    min-width: 150px;
+    color:#324b32
+}
+
+.detail-status{
+    margin-top: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: .4rem;
+}
+
+.detail-image {
+  flex: 1;
+}
+
+.detail-image img {
+  max-width: 500px;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, .15);
+}
+
+.detail-description{
+    margin-top: 1.6rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid rgba(0,0,0,.12);
+}
+
+.detail-description h2{
+    margin:0 0 .8rem;
+    font-size:1.2rem;
+    color:#1b5e20;
+}
+
+.detail-description p{
+    margin:0;
+    line-height:1.7;
+}
+
 /* Conservation status */
 
 .status {
@@ -148,7 +223,10 @@ nav a:hover {
   border-radius: 999px;
   font-size: .75rem;
   font-weight: 600;
-  align-self: center;
+}
+
+.card .status{
+    align-self: center;
 }
 
 .preocupacion-menor {
