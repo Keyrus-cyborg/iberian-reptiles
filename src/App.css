@@ -52,10 +52,10 @@ nav a:hover {
   gap: clamp(.8rem, 2vw, 2rem);
 }
 
-.menu a.active{
-    color:#d8f3d1;
-    border-bottom: 2px solid #d8f3d1;
-    padding-bottom: .25rem;
+.menu a.active {
+  color: #d8f3d1;
+  border-bottom: 2px solid #d8f3d1;
+  padding-bottom: .25rem;
 }
 
 /* HeroBanner */
@@ -82,8 +82,9 @@ nav a:hover {
 }
 
 .search-input {
-  width: min(700px, 90%);
-  padding: .7rem .8rem;
+  width: 100%;
+  box-sizing: border-box;
+  padding: .7rem .8rem .7rem 42px;
   border: 1px solid #b7d7b1;
   font-size: .8rem;
   outline: none;
@@ -92,6 +93,20 @@ nav a:hover {
 
 .search-input:focus {
   border-color: #1b5e20;
+}
+
+.search-wrapper {
+  position: relative;
+  width: min(700px, 90%);
+  max-width: 700px;
+}
+
+.search-icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: rgba(0, 0, 0, .35);
 }
 
 /* Cards */
@@ -153,7 +168,7 @@ nav a:hover {
 
 /* Details */
 
-.detail-page{
+.detail-page {
   max-width: 1200px;
   margin: 2rem auto;
   padding: 0 2rem;
@@ -176,7 +191,7 @@ nav a:hover {
 .detail-content h1 {
   margin-top: 0;
   margin-bottom: 1.8rem;
-  color:#144d18;
+  color: #144d18;
 }
 
 .detail-info p {
@@ -186,22 +201,22 @@ nav a:hover {
   gap: 1rem;
 }
 
-.detail-content strong{
-    min-width: 180px;
-    color:#324b32
+.detail-content strong {
+  min-width: 180px;
+  color: #324b32
 }
 
-.detail-status{
-    margin-top: 1.4rem;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: .4rem;
+.detail-status {
+  margin-top: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: .4rem;
 }
 
-.scientific-name-detail{
-    font-style: italic;
-    color: #555;
+.scientific-name-detail {
+  font-style: italic;
+  color: #555;
 }
 
 .detail-image {
@@ -215,41 +230,41 @@ nav a:hover {
   box-shadow: 0 8px 25px rgba(0, 0, 0, .15);
 }
 
-.detail-description{
-    margin-top: 1.6rem;
-    padding-top: 1.2rem;
-    border-top: 1px solid rgba(0,0,0,.12);
+.detail-description {
+  margin-top: 1.6rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid rgba(0, 0, 0, .12);
 }
 
-.detail-description h2{
-    margin:0 0 .8rem;
-    font-size:1.2rem;
-    color:#1b5e20;
+.detail-description h2 {
+  margin: 0 0 .8rem;
+  font-size: 1.2rem;
+  color: #1b5e20;
 }
 
-.detail-description p{
-    margin:0;
-    line-height:1.7;
+.detail-description p {
+  margin: 0;
+  line-height: 1.7;
 }
 
 /* Back button */
 
-.back-button{
-    background: none;
-    border: none;
+.back-button {
+  background: none;
+  border: none;
 
-    padding: 0;
-    margin-bottom: .6rem;
+  padding: 0;
+  margin-bottom: .6rem;
 
-    color: #1b5e20;
-    font-size: 1rem;
-    font-weight: 600;
+  color: #1b5e20;
+  font-size: 1rem;
+  font-weight: 600;
 
-    cursor: pointer;
+  cursor: pointer;
 }
 
-.back-button:hover{
-    text-decoration: underline;
+.back-button:hover {
+  text-decoration: underline;
 }
 
 /* Conservation status */
@@ -262,8 +277,8 @@ nav a:hover {
   font-weight: 600;
 }
 
-.card .status{
-    align-self: center;
+.card .status {
+  align-self: center;
 }
 
 .preocupacion-menor {
