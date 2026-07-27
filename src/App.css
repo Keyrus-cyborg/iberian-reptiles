@@ -337,3 +337,64 @@ nav a:hover {
     font-size: .9rem;
     opacity: .85;
 }
+
+/* Responsive */
+
+@media (max-width: 768px) {
+  .nav-container {
+    flex-direction: column;
+    align-items: center;
+    gap: .6rem;
+    padding: .5rem 1rem;
+  }
+
+  .menu {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .6rem;
+    font-size: .85rem;
+  }
+
+  .logo-nav {
+    width: 150px;
+  }
+
+  .hero-banner img {
+    width: 33.33%;
+    height: 130px;
+  }
+
+  .card {
+    width: 85%;
+    margin: .5rem 0;
+  }
+
+  .detail {
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 1rem;
+  }
+
+  .detail-image img {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .detail-content {
+    max-width: 100%;
+  }
+
+  .detail-info p {
+    flex-direction: column;
+    gap: .2rem;
+  }
+
+  .detail-content strong {
+    min-width: unset;
+  }
+
+  .detail-page {
+    padding: 0 1rem;
+  }
+
+}
