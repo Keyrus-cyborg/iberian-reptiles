@@ -313,7 +313,7 @@ nav a:hover {
 
 /* Footer */
 
-.footer{
+.footer {
   margin-top: 2rem;
   margin-bottom: 0;
   padding: 1rem;
@@ -321,21 +321,21 @@ nav a:hover {
   color: white;
 }
 
-.footer-content{
+.footer-content {
   max-width: 1200px;
   margin: auto;
   text-align: center;
 }
 
-.footer-logo{
+.footer-logo {
   width: 180px;
   margin-top: 1rem;
   margin-bottom: .2rem;
 }
 
-.footer-copy{
-    font-size: .9rem;
-    opacity: .85;
+.footer-copy {
+  font-size: .9rem;
+  opacity: .85;
 }
 
 /* Responsive */
@@ -361,12 +361,23 @@ nav a:hover {
 
   .hero-banner img {
     width: 33.33%;
-    height: 130px;
+  }
+
+  .hero-banner img:nth-child(n+4) {
+    display: none;
   }
 
   .card {
     width: 85%;
     margin: .5rem 0;
+  }
+
+  .card h2 {
+    min-height: 2.5em;
+  }
+
+  .scientific-name {
+    min-height: 2em;
   }
 
   .detail {
