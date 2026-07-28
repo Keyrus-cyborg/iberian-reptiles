@@ -240,10 +240,10 @@ Las fotografías utilizadas en este proyecto pertenecen a sus respectivos autore
 
 ## Lagarto tizón (banner)
 
-- Autor: Siegfried Troidl 
+- Autor: Jan Ebr & Ivana Ebrová
 - Fuente: iNaturalist.org
-- Licencia: CC BY-NC
-- URL: https://www.inaturalist.org/photos/25348288
+- Licencia: CC BY
+- URL: https://www.inaturalist.org/photos/84926950
 
 ## Lagarto ágil (banner)
 

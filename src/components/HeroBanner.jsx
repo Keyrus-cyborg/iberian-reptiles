@@ -39,13 +39,26 @@ function HeroBanner({ categoria }) {
 
     }
 
-    const imagenes = banners[categoria];
+     const imagenes = banners[categoria];
 
     return (
         <div className="hero-banner">
-            {imagenes.map((imagen) => (
-                <img key={imagen} src={imagen} alt="Imagen de reptiles" />
-            ))}
+            {imagenes.map((imagen) => {
+
+                const nombre = imagen
+                    .split("/")
+                    .pop()
+                    .replace(".jpg", "");
+
+                return (
+                    <img
+                        key={imagen}
+                        src={imagen}
+                        className={`hero-image hero-${nombre}`}
+                        alt="Imagen de reptiles"
+                    />
+                );
+            })}
         </div>
     );
 }
