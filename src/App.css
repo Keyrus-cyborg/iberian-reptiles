@@ -397,7 +397,7 @@ nav a:hover {
   }
 
   .back-button {
-    margin-top: 2rem;
+    margin-top: 3rem;
   }
 
   .detail {
@@ -437,15 +437,15 @@ nav a:hover {
   }
 
   .hero-lagarto-verdinegro-banner {
-    object-position: 80% center;
+    object-position: 80%;
   }
 
   .hero-galapago-leproso-banner {
-    object-position: 50% 30%;
+    object-position: 10%;
   }
 
   .hero-salamanquesa-comun-banner2 {
-    object-position: 80% center;
+    object-position: 80%;
   }
 
 }

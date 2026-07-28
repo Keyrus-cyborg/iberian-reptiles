@@ -303,10 +303,10 @@ Las fotografías utilizadas en este proyecto pertenecen a sus respectivos autore
 
 ## Galápago leproso (banner)
 
-- Autor: David Pereira
+- Autor: Helio Batista
 - Fuente: iNaturalist.org
 - Licencia: CC BY-NC
-- URL: https://www.inaturalist.org/photos/59113592
+- URL: https://www.inaturalist.org/photos/67963828
 
 ## Galápago europeo (banner)
 
